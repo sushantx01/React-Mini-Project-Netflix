@@ -1,5 +1,6 @@
 const Sdata = [
     {
+        id:1,
         title:'A Netflix Original Series',
         imgscr:'https://wallpapercave.com/wp/wp4056410.jpg',
         sname:'DARK',
@@ -9,6 +10,7 @@ const Sdata = [
     },
 
     {
+        id:2,
         imgscr:'https://wallpapercave.com/wp/wp5567265.jpg',
         title:'A Netflix Original Series',
         sname:'Stranger Things',
@@ -17,6 +19,7 @@ const Sdata = [
     },
 
     {
+        id:3,
         imgscr:'https://wallpapercave.com/wp/wp5203484.jpg',
         title:'A Netflix Original Series',
         sname:'13 Reasons Why',
